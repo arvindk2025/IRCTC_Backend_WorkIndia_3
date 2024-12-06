@@ -221,7 +221,7 @@ npm start
 
 ### Admin Routes
 
-    1.   Add a new train
+    6.   Add a new train
 
        * HTTP Method :- POST
        * Endpoint :- http://localhost:3000/admin/addTrain
@@ -252,7 +252,7 @@ npm start
 ```
 
 
-    2. Update seat availability
+    7. Update seat availability
        * HTTP Method :- PUT
        * Endpoint :- http://localhost:3000/admin/update-seats/10
        * Request Body:
